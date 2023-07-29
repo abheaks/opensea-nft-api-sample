@@ -57,4 +57,16 @@ npx hardhat run scripts/deploy.js --network mumbai
 npx create-react-app frontend
 ```
 
+# Install OpenSea API
+
+```shell
+npm install --save opensea-js
+```
+
+# Install web3
+
+```shell
+npm install web3
+```
+
 press ⇧⌘V in the editor to view Readme in VSCode
